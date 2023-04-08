@@ -1,0 +1,11 @@
+[2023-03-21 11:25:44,202][tacto.renderer][INFO] - Loading configuration from: C:\ProgramData\Anaconda3\envs\py39\Lib\site-packages\tacto\config_digit.yml
+[2023-03-21 11:25:44,631][__main__][INFO] - Initializing world
+[2023-03-21 11:25:44,773][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-03-21 11:25:46,600][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[0], low: -3.1415927410125732, high: 3.1415927410125732, init_value: 6.4616323798838415e-06
+[2023-03-21 11:25:46,605][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[1], low: -3.1415927410125732, high: 3.1415927410125732, init_value: 0.9999999996434974
+[2023-03-21 11:25:46,612][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[2], low: -3.1415927410125732, high: 3.1415927410125732, init_value: -1.535075256032532e-05
+[2023-03-21 11:25:46,619][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[3], low: -3.1415927410125732, high: 3.1415927410125732, init_value: -2.0871196495291765e-05
+[2023-03-21 11:25:46,626][pybulletX.gui.control_panel][INFO] - name: end_effector.position[0], low: 0.30000001192092896, high: 0.8500000238418579, init_value: 0.5000109182032388
+[2023-03-21 11:25:46,633][pybulletX.gui.control_panel][INFO] - name: end_effector.position[1], low: -0.8500000238418579, high: 0.8500000238418579, init_value: 6.405418372807795e-05
+[2023-03-21 11:25:46,640][pybulletX.gui.control_panel][INFO] - name: end_effector.position[2], low: 0.0, high: 0.800000011920929, init_value: 0.2151506881531703
+[2023-03-21 11:25:46,647][pybulletX.gui.control_panel][INFO] - name: gripper_width, low: 0.029999999329447746, high: 0.10999999940395355, init_value: 0.11
