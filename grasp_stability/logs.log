@@ -1,0 +1,4 @@
+INFO:root:Initializing world
+INFO:tacto.renderer:Loading configuration from: C:\ProgramData\Anaconda3\envs\py39\Lib\site-packages\tacto\config_digit.yml
+DEBUG:trimesh:unable to load materials from: cube.mtl
+DEBUG:trimesh:loaded <trimesh.Trimesh(vertices.shape=(24, 3), faces.shape=(12, 3))> using `load_obj` in 0.0059s
